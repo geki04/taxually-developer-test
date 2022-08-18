@@ -1,4 +1,6 @@
-﻿namespace Taxually.TechnicalTest
+﻿using System.Threading.Tasks;
+
+namespace Taxually.TechnicalTest
 {
     public class TaxuallyHttpClient
     {
